@@ -1059,6 +1059,11 @@
 			.wrapper.style3 h2 {
 			}
 
+			.wrapper.style3 p {
+				margin-right: 100px;
+				margin-left: 100px;
+			}
+
 			.wrapper.style3 .icon.big {
 				border-color: #ffffff;
 				margin-bottom: 0.5em;
