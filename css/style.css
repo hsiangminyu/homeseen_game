@@ -456,6 +456,10 @@
 		position: relative;
 	}
 
+		.image.circle {
+			border-radius: 50%;
+		}
+
 		.image img {
 			border-radius: 4px;
 			display: block;
