@@ -972,6 +972,14 @@
 		padding-right: 200px;
 	}
 
+		#banner image{
+		 width: 5px;
+		}
+		
+		/*#banner textf{
+		 margin-left:2px;
+		}*/
+
 		#banner h2 {
 			color: #45B5AA;
 			font-size: 3em;

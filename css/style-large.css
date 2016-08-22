@@ -18,7 +18,19 @@
 
 		#banner h2 {
 			font-size: 3.5em;
+			margin-right: 0.5em;
 		}
+
+		#banner p {
+			margin-right: 1.5em;
+		}
+
+
+		#banner .button {
+			margin-right: 45px;
+		}
+
+
 
 /* Footer */
 
